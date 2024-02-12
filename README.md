@@ -32,4 +32,10 @@ Please replace 'script_name.py' with the name of the script file. Also, make sur
 
 The script displays the original and the CLAHE enhanced images side by side. Press 'c' to save the final image as 'clahe_image.jpg'.
 
+![Result1](https://github.com/ArunMekkad/ImageRestoration---CLAHE/blob/main/Result1.png)
+
+![Result2](https://github.com/ArunMekkad/ImageRestoration---CLAHE/blob/main/Result2.png)
+
+![Result3](https://github.com/ArunMekkad/ImageRestoration---CLAHE/blob/main/Result3.png)
+
 This script is a simple demonstration of the CLAHE method and can be modified or expanded based on your specific requirements.
