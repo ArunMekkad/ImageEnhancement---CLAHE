@@ -26,7 +26,7 @@ This Python script demonstrates the use of the Contrast Limited Adaptive Histogr
 
 To run the script, you need to have Python installed along with the `cv2`, `numpy`, and `matplotlib` libraries. You can then run the script using any Python IDE or from the command line using the command `python script_name.py`.
 
-Please replace 'script_name.py' with the name of the script file. Also, make sure that the image 'blurry_image.jpg' is in the same directory as the script or provide the full path to the image in the `cv2.imread()` function.
+Make sure that the image 'blurry_image.jpg' is in the same directory as the script or provide the full path to the image in the `cv2.imread()` function.
 
 ## Output
 
@@ -37,5 +37,7 @@ The script displays the original and the CLAHE enhanced images side by side. Pre
 ![Result2](https://github.com/ArunMekkad/ImageRestoration---CLAHE/blob/main/Result2.png)
 
 ![Result3](https://github.com/ArunMekkad/ImageRestoration---CLAHE/blob/main/Result3.png)
+
+In all three results, the CLAHE process significantly enhanced the contrast and visibility of details in the images. 
 
 This script is a simple demonstration of the CLAHE method and can be modified or expanded based on your specific requirements.
